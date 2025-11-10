@@ -1,0 +1,39 @@
+:root {
+  --bg: #ffffff;
+  --text: #222;
+  --input-bg: #f9f9f9;
+  --btn-bg: #007bff;
+  --btn-text: white;
+}
+
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #f5f5f5;
+  --input-bg: #1f1f1f;
+  --btn-bg: #333;
+  --btn-text: #eee;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: system-ui, sans-serif;
+  align-items: center;
+  justify-content: center;
+    color: var(--text);
+
+}
+
+h1 {
+  color: royalblue;
+  color: var(--text);
+
+}
+
+p {
+  color: #555;
+  color: var(--text);
+
+}
