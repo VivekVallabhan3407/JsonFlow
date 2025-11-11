@@ -41,6 +41,14 @@ npm install
 npm run dev
 
 ```
+## Future Scope
+
+1. Add support for converting JSON to other formats like CSV or XML.
+
+2. Include a visual JSON tree viewer for easier data exploration.
+
+3. Allow users to compare two JSON files and view differences.
+
 
 📄 License
 
