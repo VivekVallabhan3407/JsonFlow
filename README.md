@@ -49,6 +49,11 @@ npm run dev
 
 3. Allow users to compare two JSON files and view differences.
 
+4. Add Recent My Files section to see the files.
+
+5. Handle Large sized files.
+
+
 
 📄 License
 
