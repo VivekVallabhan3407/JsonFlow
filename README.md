@@ -12,6 +12,7 @@
 - 🌗 **Dark / Light Mode** — Smooth theme toggle with preference memory  
 - 📋 **Copy to Clipboard** — One-click copy of formatted output  
 - 🔔 **Toast Notifications** — Instant feedback on every user action  
+- 🗑️ **Delete Button**- Delete files that are uploaded and clears the editor for formatting another JSON code/file again.
 
 ---
 
