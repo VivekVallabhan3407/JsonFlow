@@ -25,6 +25,20 @@
 
 ---
 
+## Project Structure:
+
+```
+JSONFLOW/
+├── src/
+│   ├── components
+│       ├── App.cs
+│       └── App.tsx
+│   ├── App.cs
+│   ├── App.tsx
+│   ├── index.cs
+│   └── main.tsx
+└── index.html
+
 ## 🛠️ Getting Started
 
 ### 1️⃣ Clone the repo
