@@ -25,7 +25,7 @@
 
 ---
 
-## Project Structure:
+## 📂 Project Structure:
 
 ```
 JSONFLOW/
@@ -38,6 +38,7 @@ JSONFLOW/
 │   ├── index.cs
 │   └── main.tsx
 └── index.html
+```
 
 ## 🛠️ Getting Started
 
@@ -46,12 +47,14 @@ JSONFLOW/
 git clone https://github.com/<your-username>/jsonflow.git
 cd jsonflow
 ```
+
 ### 2️⃣ Install dependencies
 ```bash
 npm install
 
 ```
-3️⃣ Run the project
+
+### 3️⃣ Run the project
 ```bash
 npm run dev
 
