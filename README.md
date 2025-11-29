@@ -1,6 +1,6 @@
 # JSONFlow — Smart JSON Formatter & Viewer
 
-**JSONFlow** is a modern React + TypeScript web app built with Vite that lets you format, validate, upload, download, and manage JSON data beautifully — all in a sleek, theme-toggle interface. The data is stored in local storage. Users can either copy the formatted json data or download file. Users get proper feedback for their actions wiht help of toast notifications.
+**JSONFlow** is a modern React + TypeScript web app built with Vite that lets you format, validate, upload, download, and manage JSON data beautifully — all in a sleek, theme-toggle interface. The data is stored in local storage. Users can either copy the formatted json data or download file. Users get proper feedback for their actions with help of toast notifications.
 
 ---
 
